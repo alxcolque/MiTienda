@@ -11,3 +11,4 @@ c:\users\alex\documents\visual studio 2015\Projects\MiTienda\MiTienda\obj\Debug\
 C:\Users\ALEX\Documents\Visual Studio 2015\Projects\MiTienda\MiTienda\obj\Debug\MiTienda.Principal.resources
 C:\Users\ALEX\Documents\Visual Studio 2015\Projects\MiTienda\MiTienda\obj\Debug\MiTienda.View.UserControls.UC_Inicio.resources
 C:\Users\ALEX\Documents\Visual Studio 2015\Projects\MiTienda\MiTienda\obj\Debug\MiTienda.View.UserControls.UC_Items.resources
+C:\Users\ALEX\documents\visual studio 2015\Projects\MiTienda\MiTienda\obj\Debug\MiTienda.View.Dialogs.Tipos.resources

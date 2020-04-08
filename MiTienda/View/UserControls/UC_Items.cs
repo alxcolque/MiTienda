@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Referencia
+using MiTienda.View.Dialogs;
 
 namespace MiTienda.View.UserControls
 {
@@ -15,6 +17,12 @@ namespace MiTienda.View.UserControls
         public UC_Items()
         {
             InitializeComponent();
+        }
+
+        private void btnVerTipos_Click(object sender, EventArgs e)
+        {
+            Tipos m = new Tipos();
+            m.ShowDialog();
         }
     }
 }

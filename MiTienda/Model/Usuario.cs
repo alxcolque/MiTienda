@@ -22,7 +22,7 @@ namespace MiTienda.Model
             try
             {
                 conn.Open();
-                MessageBox.Show("Conexion establecida ");
+                //MessageBox.Show("Conexion establecida ");
             }
             catch(Exception ex)
             {
@@ -81,6 +81,9 @@ namespace MiTienda.Model
                     {
                         MessageBox.Show("Usuario de diferente rol ");
                     }
+                }
+                else {
+                    MessageBox.Show("Datos incorrectos...!");
                 }
             }
             catch (Exception ex)
